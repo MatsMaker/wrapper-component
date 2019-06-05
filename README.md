@@ -1,3 +1,5 @@
+# Example with **redux** on [this redux branch](https://github.com/MatsMaker/wrapper-component/tree/redux)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

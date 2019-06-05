@@ -13,7 +13,7 @@ export default function (state = initialState, action) {
     case GET_STREAMS: {
       return {
         ...state,
-        streamsList: StreamData,
+        streamsList: action.payload,
       }
     }
     case CHANGE_GROUP: {
